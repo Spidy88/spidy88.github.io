@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#main {
+    position: relative;
+}
+
+#big-video-wrap {
+    opacity: 0.5;
+}
